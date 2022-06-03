@@ -1,4 +1,4 @@
-Ola!Sou Daniel Bloch
+Ola! Sou Daniel Bloch
 
 .Estudante de Desenvolvimento Front-End
 
