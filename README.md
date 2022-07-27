@@ -1,7 +1,7 @@
 Ola! Sou Daniel Bloch
 
-.Estudante de Desenvolvimento Full Stack
+💻 Estudante de Desenvolvimento Full Stack
 
-.Tenho foco em descobrir sempre uma nova forma de fazer e nas boas práticas da programação
+🛠 Tenho foco em descobrir sempre uma nova forma de fazer e nas boas práticas da programação
 
-.Atualmente ampliando meus conhecimentos em: React.js, Node js, Bootstrap, Tailwind
+⚛️ Atualmente ampliando meus conhecimentos em: React.js, Node js, Bootstrap, Tailwind
