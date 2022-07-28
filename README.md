@@ -1,6 +1,6 @@
 Ola! Sou Daniel Bloch
 
-💻 Estudante de Desenvolvimento Full Stack
+💻 Desenvolvimento Web Full Stack
 
 🛠 Tenho foco em descobrir sempre uma nova forma de fazer e nas boas práticas da programação
 
