@@ -4,4 +4,4 @@ Ola! Sou Daniel Bloch
 
 🛠 Tenho foco em descobrir sempre uma nova forma de fazer e nas boas práticas da programação
 
-⚛️ Atualmente ampliando meus conhecimentos em: React.js, Node js, Bootstrap, Tailwind
+⚛️ Atualmente ampliando meus conhecimentos em: React.js, Next.js, Node js, Bootstrap, Tailwind
