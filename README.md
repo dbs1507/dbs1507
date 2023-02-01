@@ -7,6 +7,6 @@ SKILLS
 
 👁️ Boostrap, Tailwind
 
-🧠 Node.js, Express.js, API's RESTful 
+🧠 Node.js, Express.js, API's RESTful, ElasticSearch
 
 
