@@ -1,8 +1,7 @@
 
 Hey! Sou Daniel, Desenvolvedor Web Full Stack Verde/Amarelo
 
-💻 SKILLS
-___________________________________________________________
+💻 SKILLS:
 
 👨🏼‍💻 Next.js, React.js
 
