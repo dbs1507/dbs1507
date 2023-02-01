@@ -1,7 +1,14 @@
 Ola! Sou Daniel Bloch
 
-💻 Desenvolvimento Web Full Stack
+💻 Desenvolvedor Web Full Stack Verde/Amarelo
 
-🛠 Tenho foco em descobrir sempre uma nova forma de fazer e nas boas práticas da programação
+---------------------------------------------
+SKILLS
 
-⚛️ Atualmente ampliando meus conhecimentos em: React.js, Next.js, Node js, Bootstrap, Tailwind
+👨🏼‍💻 Next.js, React.js
+
+👁️ Boostrap, Tailwind
+
+🧠 Node.js, Express.js, API's RESTful 
+
+
