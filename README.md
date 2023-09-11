@@ -7,6 +7,6 @@ Hey! Sou Daniel, Desenvolvedor Web Full Stack Verde/Amarelo
 
 🎨 Boostrap, Tailwind
 
-🧠 Node.js, Python, PHP, Express.js, API's RESTful, ElasticSearch
+🧠 Node.js, Python, Express.js, API's RESTful, ElasticSearch
 
 
